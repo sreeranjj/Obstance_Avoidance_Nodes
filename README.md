@@ -1,5 +1,5 @@
 # Obstance_Avoidance_Nodes
-ROS2 nodes for obstacle avoidance while moving 
+ROS2 nodes for obstacle avoidance while moving through a known scene. 
 The objective of this project is to design a set of controllers to make a robot drive through a set of
 way points, in the presence of unknown obstacles. The blue box is in a known stationary position within the
 environment, while the purple object will be added by an instructor during the demo. The robot will
